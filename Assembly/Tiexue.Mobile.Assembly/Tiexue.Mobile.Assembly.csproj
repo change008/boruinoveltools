@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{687D4514-8BE8-4E8C-A922-B0E9F73161E5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tiexue.Mobile.Assembly</RootNamespace>
+    <AssemblyName>Tiexue.Mobile.Assembly</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ChnCharInfo.dll" />
+    <Content Include="HtmlAgilityPack.dll" />
+    <Content Include="HttpWebAdapters.dll" />
+    <Content Include="ICSharpCode.SharpZipLib.dll" />
+    <Content Include="ImageResizer.dll" />
+    <Content Include="ImageResizer.Plugins.AnimatedGifs.dll" />
+    <Content Include="ImageResizer.Plugins.PrettyGifs.dll" />
+    <Content Include="log4net.dll" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Caching.dll" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Common.xml" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Data.dll" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll" />
+    <Content Include="Microsoft.Practices.EnterpriseLibrary.Logging.dll" />
+    <Content Include="Microsoft.Practices.ObjectBuilder.dll" />
+    <Content Include="Microsoft.Practices.ServiceLocation.dll" />
+    <Content Include="Microsoft.Practices.Unity.dll" />
+    <Content Include="Microsoft.Web.Mvc.FixedDisplayModes.dll" />
+    <Content Include="MongoDB.Bson.dll" />
+    <Content Include="MongoDB.Driver.dll" />
+    <Content Include="PanGu.dll" />
+    <Content Include="ServiceStack.Common.dll" />
+    <Content Include="ServiceStack.Interfaces.dll" />
+    <Content Include="ServiceStack.Redis.dll" />
+    <Content Include="ServiceStack.Redis.xml" />
+    <Content Include="ServiceStack.Text.dll" />
+    <Content Include="ServiceStack.Text.xml" />
+    <Content Include="SolrNet.dll" />
+    <Content Include="Tiexue.Framework.Core.dll" />
+    <Content Include="Tiexue.Framework.Core.pdb" />
+    <Content Include="Tiexue.Framework.Utilities.dll" />
+    <Content Include="Tiexue.General.Exception.dll" />
+    <Content Include="Tiexue.General.Newtonsoft.Json.dll" />
+    <Content Include="Tiexue.General.Newtonsoft.Json.pdb" />
+    <Content Include="Tiexue.IpQuery.dll" />
+    <Content Include="Tx.Library.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageUpload.config" />
+    <None Include="log4net.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

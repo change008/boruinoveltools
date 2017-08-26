@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TiexueFramework.Core.Data.DynamicBuilder&lt;T&gt;">
+    <Position X="6" Y="0.75" Width="2.5" />
+    <NestedTypes>
+      <Delegate Name="TiexueFramework.Core.Data.DynamicBuilder&lt;T&gt;.Load" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DynamicBuilder.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="TiexueFramework.Core.Data.DynamicBuilder&lt;T&gt;.GetValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DynamicBuilder.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="TiexueFramework.Core.Data.DynamicBuilder&lt;T&gt;.SetValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DynamicBuilder.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAJAAAAAAAAAACAAAAAAAAAAAAIAAAABAAAA=</HashCode>
+      <FileName>Data\DynamicBuilder.cs</FileName>
+      <NewMemberFileName>Data\DefaultDataFacade.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiexueFramework.Core.Data.ParameterCache">
+    <Position X="8" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAEECAAIACAAAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ParameterCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TiexueFramework.Core.Data.IDataFacade">
+    <Position X="0.5" Y="4" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAAAQAAAgEAAAAAAAACACAAAAAABAAAAQAAIAAA=</HashCode>
+      <FileName>Data\IDataFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiexueFramework.Core.Data.IDataFacadeFactory">
+    <Position X="6" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IDataFacadeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiexueFramework.Core.Data.IRetrieveRawData">
+    <Position X="1" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IRetrieveRawData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

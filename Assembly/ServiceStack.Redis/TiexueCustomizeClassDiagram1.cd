@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServiceStack.Redis.RedisClient">
+    <Position X="4" Y="0.75" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ServiceStack.Redis.RedisClient.RedisClientHashes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RedisClient_Hash.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ServiceStack.Redis.RedisClient.RedisClientLists" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RedisClient_List.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ServiceStack.Redis.RedisClient.RedisClientSets" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RedisClient_Set.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ServiceStack.Redis.RedisClient.RedisClientSortedSets" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RedisClient_SortedSet.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>JQL+d+QlNEA05xzhKxEwj/EBliE76SiDox2iT9mirro=</HashCode>
+      <FileName>RedisClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
