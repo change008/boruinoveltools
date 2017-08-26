@@ -141,7 +141,7 @@ namespace NovelCollProject
             1005,
             "小村那些事",
             @"自从村子里出了个杨小宝，乡村生活开始丰富了起来。比如帮寡妇马老师家里打打旱井。帮美女丽丽赶跑追求她的流氓。帮隔壁雪梅婶婶治愈多年不育的顽疾。帮村里修通了通往镇上的大路。乡亲们，姐妹们，我杨小宝来了！",
-            "http://danhuang.zhanlve5.com/static/image/s_cover.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "xiaocunnaxieshi",
             "nothing");
 
@@ -155,7 +155,7 @@ namespace NovelCollProject
             1006,
             "妇科小村医",
             @"游手好闲的牛大壮意外学到了很多巫术风水等知识，从此，走上了一条风流快活的人生之路。",
-            "http://danhuang.zhanlve5.com/static/image/s_cover.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "fukexiaocunyi",
             "nothing",
             true);
@@ -172,7 +172,7 @@ namespace NovelCollProject
             1007,
             "神棍小村医",
             @"山村少年方小宇，因砸破奇石获异能，从此精通医术、风水、看相和鉴宝。 他点中了事业桃花双旺的风水宝地。开塘办厂建电站，带领乡亲奔小康。护士警花女教师，村花校花留守妇，模特明星女老总，桃花运来挡不住……",
-            "http://danhuang.zhanlve5.com/static/image/s_cover.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "shengunxiaocunyi",
             "nothing");
 
@@ -186,7 +186,7 @@ namespace NovelCollProject
             1008,
             "我把自己卖给了富婆",
             @"白富美出十万想要找个傻子结婚，我为了还债被迫装傻入赘豪门。本以为婚后可以过上梦幻般的生活，可没想到，自己迎来的不是桃花，而是厄运...",
-            "http://danhuang.zhanlve5.com/static/image/s_cover.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "wobazijimaigeilefupo",
             "nothing");
 
@@ -200,7 +200,7 @@ namespace NovelCollProject
             1009,
             "假面娇妻",
             @"结婚纪念日妻子晚归，李泽发现了妻子身上的异常。而当李泽确定妻子不仅在上班期间洗过澡，而且身上还少了某样东西时，李泽意识到妻子可能已经出轨……",
-            "http://danhuang.zhanlve5.com/static/image/s_cover.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "jiamianjiaoqi",
             "nothing");
 
@@ -242,7 +242,7 @@ namespace NovelCollProject
             1012,
             "今晚有料",
             @"因为尴尬的事情，我装作聋哑人做了上门女婿。    各位书友要是觉得《今夜有戏》还不错的话请不要忘记向您QQ群和微博里的朋友推荐哦！",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "jinwanyouliao",
             "nothing");
 
@@ -256,7 +256,7 @@ namespace NovelCollProject
             1013,
             "感谢青春",
             @"感谢青春，让我在一无所有的年纪，遇到了青春靓丽的你。 ",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "ganxieqingchun",
             "nothing");
 
@@ -270,7 +270,7 @@ namespace NovelCollProject
             1014,
             "多娇山村",
             @"他是一个小农民，他艳福不浅，美女、熟妇纷至沓来。他外表憨厚，却独具野心，他财运滚滚，赚钱赚到手发软。",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "duojiaoshancun",
             "nothing");
         
@@ -285,7 +285,7 @@ namespace NovelCollProject
             1015,
             "血色爱恋",
             @"十八岁之前，我过着非人的生活，直到尊严被极度践踏的生日夜…… 我努力冲向未来……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "xueseailian",
             "nothing");
 
@@ -299,7 +299,7 @@ namespace NovelCollProject
             1016,
             "邪魔保镖",
             @"这货工作之余揽私活儿，一个人承接多位美女的保护任务；他敢于狂吃窝边草，当然还有窝外的草，以及其他草、所有草。一个妖孽如谜的男人，一群形形色色的女人，演绎了万花丛中的一段段离奇韵事。",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "xiemobaobiao",
             "nothing");
 
@@ -313,7 +313,7 @@ namespace NovelCollProject
             1017,
             "生态园里的爱恋",
             @"我没有血缘关系的哥不幸死了，为了保护年轻漂亮的嫂子，两年前我因为她差点杀人，逃出山村。 现在回来了，我继续要保护嫂子，跟她一起过人生。但却碰上了生态园的成熟美艳女经理，俏丽的小护士，还有村里的小妖女和生态园的贵妇女客人，让我十八岁的青春很多彩",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "shengtaiyuan",
             "nothing");
 
@@ -327,7 +327,7 @@ namespace NovelCollProject
             1018,
             "同居日记",
             @"周末的早晨我接到一个陌生女孩的来电，电话那头女孩的声音特别软，她自称是我的小姨子，女孩还说让我去机场接她！于是我就开车去了机场，谁料半路竟然下起了暴雨。机场门口我见到了给我打电话的女孩，她穿着湿漉漉的衣服就钻进了我的车里……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "tongjuriji",
             "nothing",true);
 
@@ -341,7 +341,7 @@ namespace NovelCollProject
             1019,
             "乡村小农民",
             @"小农民偶得仙家洞府，修炼神功无所不能，透视医术样样都行，立志走上人生巅峰！ 正当刘伟低调发财时，却发现邻家妹妹，隔壁嫂子，火辣白领，娇蛮大小姐，冰山女总裁，双胞胎校花，数不尽的美女纷纷找上门来……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing", true);
 
@@ -355,7 +355,7 @@ namespace NovelCollProject
             1020,
             "重生官路",
             @"一个刚被人设计落选的副局长，稀里糊涂的重生到了十几年前。    面对着91年那风云激荡的国际局势，他抓住机遇，利用自己上辈子的记忆和从政经验，从底层科员做起，一步步登上了官场的高峰。    从而打造了一个不可复制的官场神话，真正成为了一个驰骋官场不倒的弄潮儿！",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing", false);
 
@@ -369,7 +369,7 @@ namespace NovelCollProject
             1021,
             "超级小仙医",
             @"……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing", false);
 
@@ -383,7 +383,7 @@ namespace NovelCollProject
             1022,
             "男公关回忆录",
             @"本是富二代，却天降大祸，带走父亲，比我仅大七岁的后妈带走了所有遗产，我刷爆所有信用卡，为了还账，当上了公关，从此多少年，多少年……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing", false);
 
@@ -397,7 +397,7 @@ namespace NovelCollProject
             1023,
             "乡村美事",
             @"",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing", false);
 
@@ -413,7 +413,7 @@ namespace NovelCollProject
             1024,
             "那些公司里的事",
             @"那些年在公司里的女人",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -427,7 +427,7 @@ namespace NovelCollProject
             1025,
             "美女村长的超级保镖",
             @"美女村长拥有一个贴身的保镖...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -441,7 +441,7 @@ namespace NovelCollProject
             1026,
             "护花神龙",
             @"护花神龙...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -455,7 +455,7 @@ namespace NovelCollProject
             1031,
             "草根的逆袭",
             @"已婚主妇的秘密...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -470,7 +470,7 @@ namespace NovelCollProject
             1032,
             "村里的神医",
             @"山沟里的穷小子偶得玄妙的长生造化诀，种田、治病、风水、占卜……样样都行，某日修炼小成的穷小子随手占卜了一卦，卦象显示：否极泰来，桃花泛滥！于是……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -484,7 +484,7 @@ namespace NovelCollProject
             1034,
             "村里的神医",
             @"佣兵界兵王，为寻找失散多年的妹妹，回归都市，偶遇美女经理。 文能贴身护美女，武能提枪安吾妻。 一代兵王掀起都市新一轮的腥风血雨！……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -498,7 +498,7 @@ namespace NovelCollProject
             1035,
             "绝色乡村",
             @"绝色乡村……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing",true);
 
@@ -514,7 +514,7 @@ namespace NovelCollProject
             1036,
             "乡村官道",
             @"道，可以是一条路，也可以是一条法则；正道，那就是正确的道路或者是正确的法则；为人者，走错了道可以改回来，大不了从头再来；为官者，踏出一步，就是一个脚印，对了，那是份内之事，错了，前面就是万丈深渊；天若有情天亦老，人间正道是沧桑。",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing", true);
 
@@ -528,7 +528,7 @@ namespace NovelCollProject
             1037,
             "潇洒兵神",
             @"为兄弟，他两肋插刀，为女人，他怒为红颜，为国家，他誓死如归",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -542,7 +542,7 @@ namespace NovelCollProject
             1038,
             "冥界新娘",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -556,7 +556,7 @@ namespace NovelCollProject
             1039,
             "上门女婿的一些事",
             @"为了钱我做了上门女婿，可是洞房花烛夜，压在新娘身上的男人，却不是我！ 而后，我发现了新娘身上的惊人的秘密……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -570,7 +570,7 @@ namespace NovelCollProject
             1040,
             "恐怖游戏",
             @"微信群里有土豪发红包，要求运气王跟它玩个游戏，竟然是让班花做……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -585,7 +585,7 @@ namespace NovelCollProject
             1041,
             "村里的美女老师",
             @"一方山水养一方人，桃水村虽然偏僻，但这里的女人个个都白嫩水灵。……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -599,7 +599,7 @@ namespace NovelCollProject
             1042,
             "女总裁的超级保镖",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing",true);
         #endregion
@@ -614,7 +614,7 @@ namespace NovelCollProject
             1043,
             "乡村里的一些事",
             @"赵铁柱大专毕业回村里，一个个大媳妇小姑娘用各种理由缠上来，让他欲罢不能···",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -628,7 +628,7 @@ namespace NovelCollProject
             1046,
             "美女老板的贴身兵王",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -642,7 +642,7 @@ namespace NovelCollProject
             1047,
             "妻子的诱惑",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -657,7 +657,7 @@ namespace NovelCollProject
             1048,
             "超级天眼",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -671,7 +671,7 @@ namespace NovelCollProject
             1049,
             "重活一世",
             @"伤我至亲之人，我一定十倍，百倍报之！侮我，辱我，羞我之人，这一世，我一定要将你们踩在脚下！...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -685,7 +685,7 @@ namespace NovelCollProject
             1060,
             "张狂的青春",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -702,7 +702,7 @@ namespace NovelCollProject
             1061,
             "桃花仙医",
             @"一不小心秦凡看到村长媳妇偷情，机缘巧合之下获得异能，从此走上发家致富路，各路美女追来，桃花运不断，众美环绕……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -716,7 +716,7 @@ namespace NovelCollProject
             1062,
             "权利的秘密",
             @"在基层混迹多年毫无晋升希望的梁健，得到区委女书记的欣赏，从乡镇干部到省级干部的跋涉攀升。从中你能看到现代官场的风尚画面！...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -730,7 +730,7 @@ namespace NovelCollProject
             1063,
             "我的青春不归路",
             @"我先有继父，欺负姐姐；后有继母，欺负我，让我踏上一条青春不归路……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_b.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -744,7 +744,7 @@ namespace NovelCollProject
             1064,
             "临时男友",
             @"外籍军团最出色的佣兵高飞回到故乡，偶然机会被美女总裁聘为临时男友，从此获得幸运女神的青睐……",
-            "http://danhuang.zhanlve5.com/static/image/mycover_b.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -758,7 +758,7 @@ namespace NovelCollProject
             1066,
             "锦绣色香",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -772,7 +772,7 @@ namespace NovelCollProject
             1067,
             "女老板的贴身神兵",
             @"兵王回归都市，意外被一个美女劫色。随后去见从小定下娃娃亲的未婚妻，却发现劫色的美女是未婚妻的表妹。我擦！这该如何相处？...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -786,7 +786,7 @@ namespace NovelCollProject
             1068,
             "协议恋人",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
@@ -801,7 +801,7 @@ namespace NovelCollProject
             1069,
             "代孕成妻",
             @"...",
-            "http://danhuang.zhanlve5.com/static/image/mycover_a.jpg",
+            "http://xs.xiaohongwei.cn/static/image/cover/cover_1.jpg",
             "nothing",
             "nothing");
 
